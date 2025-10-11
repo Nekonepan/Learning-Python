@@ -45,7 +45,7 @@ python filename.py
 
 ---
 
-📖 Notes
+## 📖 Notes
 
 This repository will keep growing as I continue learning Python.
 I’m focusing not only on syntax, but also on problem-solving and code readability.
@@ -53,14 +53,14 @@ I’m focusing not only on syntax, but also on problem-solving and code readabil
 
 ---
 
-⚖️ License
+## ⚖️ License
 
 This project is licensed under the MIT License, feel free to use or learn from it.
 
 
 ---
 
-✨ Author
+## ✨ Author
 
 Nekonepan
 
