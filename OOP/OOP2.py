@@ -1,11 +1,13 @@
 class Human:
-  species = "Homo Sapiens"
+  species = "Homo Sapiens" #Class Variable
 
+  #Constructor
   def __init__(self, name, age, gender):
     self.name = name
     self.age = age
     self.gender = gender
 
+#Object
 x = Human("Edcorner", 30, "Male")
 y = Human("Learning", 32, "Female")
 
