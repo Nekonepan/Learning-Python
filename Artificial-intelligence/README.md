@@ -4,37 +4,6 @@ This folder contains Python exercises and small experiments for learning basic A
 
 ---
 
-## Purpose
-
-This directory is used to practice AI topics such as:
-
-- Blind search / uninformed search
-- Heuristic search and tracking
-- Knowledge representation
-- Basic reasoning implementation
-
-The code is organized by topic so each example can be studied and run independently.
-
----
-
-## Folder Structure
-
-```text
-Artificial-intelligence/
-├── Blind-tracking/
-├── Heuristic-tracking/
-│   ├── Heuristic-Tracking/
-│   └── Post/
-├── Implementation-of-Reasoning/
-│   ├── Main/
-│   └── Post/
-└── Knowledge-Representation/
-    ├── Knowledge-Representation/
-    └── Post/
-```
-
----
-
 ## Requirements
 
 General requirements:
@@ -135,9 +104,3 @@ venv/
 ```
 
 They can be recreated when needed.
-
----
-
-## Author
-
-Nekonepan
